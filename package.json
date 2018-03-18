@@ -12,10 +12,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@zeit/next-css": "^0.1.0",
+    "@zeit/next-css": "^0.1.4",
     "next": "^5.0.0",
     "react": "^16.2.0",
-    "react-accessible-accordion": "^1.0.2",
+    "react-accessible-accordion": "^2.2.1",
     "react-dom": "^16.2.0"
   }
 }
